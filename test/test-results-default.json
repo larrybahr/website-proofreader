@@ -1,0 +1,80 @@
+{
+	"source": "Source Grammar\nShamed by you English?\n\nYou can speak soon and write like a graduate college if me let you help for a day of 15 minutes!\n\n\n\nGrammar\nYour the best teacher ever!\n\n\nGrammar (thank you twitter)\nI like the smell of mens colon!\n\n\nGrammar (thank you channel 16)\nSchool two easy for kids.\n\n\nSpelling\nOriginal spelling\n\n\nSpelling\nString lenght\n\n\nSpelling\nCanceled\nMaintanence\nColoms\nAccedentilley\nGaurentee",
+	"grammar": [
+		{
+			"corrections": "\"Spelling\" is repeated",
+			"indexStart": 327,
+			"indexStop": 335
+		}
+	],
+	"spelling": [
+		{
+			"word": "mens",
+			"corrections": [
+				"men's",
+				"means",
+				"men",
+				"mends",
+				"menus",
+				"miens",
+				"mend",
+				"man's",
+				"manes",
+				"mess"
+			],
+			"indexStart": 225,
+			"indexStop": 229
+		},
+		{
+			"word": "lenght",
+			"corrections": [
+				"length"
+			],
+			"indexStart": 343,
+			"indexStop": 349
+		},
+		{
+			"word": "Maintanence",
+			"corrections": [
+				"Maintenance",
+				"Maintenances"
+			],
+			"indexStart": 370,
+			"indexStop": 381
+		},
+		{
+			"word": "Coloms",
+			"corrections": [
+				"Colom's",
+				"Colom",
+				"Celoms",
+				"Coeloms",
+				"Colons",
+				"Colors",
+				"Colo's",
+				"Coloma",
+				"Colum's"
+			],
+			"indexStart": 382,
+			"indexStop": 388
+		},
+		{
+			"word": "Accedentilley",
+			"corrections": [
+				"Accidentally"
+			],
+			"indexStart": 389,
+			"indexStop": 402
+		},
+		{
+			"word": "Gaurentee",
+			"corrections": [
+				"Guarantee",
+				"Guaranteed",
+				"Guarantees"
+			],
+			"indexStart": 403,
+			"indexStop": 412
+		}
+	]
+}

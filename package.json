@@ -1,0 +1,46 @@
+{
+  "name": "website-proofreader",
+  "description": "Proofreads HTML for spelling and grammar mistakes",
+  "version": "0.0.1",
+  "author": {
+    "name": "Larry Bahr",
+    "url": "http://www.LB3Tech.net/"
+  },
+  "dependencies": {
+    "html-to-text": "^5.1.1",
+    "is-url": "^1.2.4",
+    "puppeteer": "^1.18.1",
+    "spellchecker": "^3.6.1",
+    "write-good": "^1.0.1"
+  },
+  "devDependencies": {
+    "deep-diff": "^1.0.2",
+    "fs-extra": "^8.1.0",
+    "get-port": "^5.0.0",
+    "mocha": "^6.1.4"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "homepage": "https://github.com/larrybahr/website-proofreader",
+  "keywords": [
+    "check",
+    "checker",
+    "english",
+    "grammar",
+    "html",
+    "spell",
+    "spelling",
+    "web",
+    "website"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/larrybahr/website-proofreader.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}

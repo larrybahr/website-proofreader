@@ -41,6 +41,7 @@
     "url": "https://github.com/larrybahr/website-proofreader.git"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node ./example/basic/index.js"
   }
 }

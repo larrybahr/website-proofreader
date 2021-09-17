@@ -10,13 +10,14 @@
     "html-to-text": "^5.1.1",
     "is-url": "^1.2.4",
     "puppeteer": "^1.18.1",
-    "spellchecker": "^3.6.1",
-    "write-good": "^1.0.1"
+    "spellchecker": "^3.7.1",
+    "write-good": "^1.0.8"
   },
   "devDependencies": {
     "deep-diff": "^1.0.2",
     "fs-extra": "^8.1.0",
     "get-port": "^5.0.0",
+    "get-sitemap-links": "^1.0.6",
     "mocha": "^6.1.4"
   },
   "engines": {

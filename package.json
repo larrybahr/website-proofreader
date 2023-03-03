@@ -18,7 +18,7 @@
     "fs-extra": "^8.1.0",
     "get-port": "^5.0.0",
     "get-sitemap-links": "^1.0.6",
-    "mocha": "^6.1.4"
+    "mocha": "^6.2.3"
   },
   "engines": {
     "node": ">=8.0.0"
